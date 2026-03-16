@@ -1,31 +1,32 @@
 # Hi, I'm Yukun
 
-I use this profile as a clean public layer for computational biology, liquid biopsy, and reproducible research tooling.
+I use this profile as a clean public layer for useful software, small workflow improvements, and things I keep coming back to.
 
-- I build analysis workflows, research notes, and small tools around cfDNA, liquid biopsy, and biomarker modeling.
-- I care about interfaces that make research easier to understand, reuse, and extend.
+- I learn constantly from open source, public docs, and other people's good ideas.
+- I build for my own use first, then clean up the parts that are worth sharing.
+- I like convenience, clarity, and software that saves time without feeling heavy.
 
 ## What You Will Find Here
 
-- Public code that is safe to share
-- Reusable workflow templates and compute notes
-- Public-facing methods writeups and project summaries
-- A separate site for a more curated project shelf
+- Small utilities and experiments
+- Workflow notes and setup guides
+- Public repos that are safe, simple, and reusable
+- A separate site that curates the things I actually want people to click
 
 ## Current Focus
 
 - Building a stronger public GitHub presence with clear project boundaries
-- Turning useful internal workflow patterns into public tools and templates
-- Improving research-facing interfaces so projects are easier to browse than a raw repo list
+- Turning rough personal tooling into better public repos
+- Learning from community patterns and contributing back in smaller, useful ways
 
-## Public vs Private Work
+## Community Loop
 
-| Type of work | Where it lives | How it shows up publicly |
-| --- | --- | --- |
-| Lab analyses, active studies, sensitive data | Private repos or lab infrastructure | Usually not shown directly |
-| General-purpose scripts and templates | Public repos | Linked as open tools |
-| Methods writeups and workflow notes | Public repos or site posts | Shared as public notes or case studies |
-| Ongoing private research effort | Private repos | Mentioned only as sanitized summaries when appropriate |
+1. Pull from the community
+   - libraries, starter patterns, docs, and small tricks that make work smoother
+2. Build for myself
+   - convenience tools, workflow improvements, and quality-of-life fixes
+3. Share back
+   - cleaned repos, better docs, examples, and small contributions that may save someone else time
 
 ## Project Strategy
 
@@ -36,14 +37,14 @@ I am organizing my GitHub presence into three layers:
 2. `Lapmlnex.github.io`
    - Curated personal site and project shelf
 3. Public utility repos
-   - Small, reusable, well-documented outputs
+   - Small, reusable, well-documented outputs that started as something I needed myself
 
 ## Good Things To Pin Here
 
 - `Lapmlnex.github.io`
-- A flagship open analysis or visualization repo
-- A workflow or compute-playbook repo
-- A public methods or notes repo
+- A small utility repo that solves one real annoyance well
+- A workflow or setup playbook repo
+- A notes or docs repo with genuinely reusable ideas
 - One compact repo that is easy for new collaborators to understand quickly
 
 ## Working Publicly
@@ -67,10 +68,10 @@ My goal is to keep public work:
 ## Next Repos To Build
 
 - `Lapmlnex.github.io`
-- `open-analysis-templates`
-- `research-notes`
+- `everyday-utilities`
 - `workflow-playbooks`
+- `community-notes`
 
 ---
 
-If you are here because of a shared research interest, the best public entry point will usually be the site rather than the full repository list.
+If you are here to see what I build or reuse, the best public entry point will usually be the site rather than the raw repository list.
