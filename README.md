@@ -3,7 +3,6 @@
 I use this profile as a clean public layer for computational biology, liquid biopsy, and reproducible research tooling.
 
 - I build analysis workflows, research notes, and small tools around cfDNA, liquid biopsy, and biomarker modeling.
-- I keep sensitive lab work private and publish the reusable parts in public.
 - I care about interfaces that make research easier to understand, reuse, and extend.
 
 ## What You Will Find Here
