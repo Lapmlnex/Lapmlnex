@@ -65,6 +65,21 @@ My goal is to keep public work:
 - Site: `https://lapmlnex.github.io/` after deployment
 - Public contact: GitHub profile and repository links for now
 
+## Daily Paper Readers (Refined Open Source Editions)
+
+Customized forks of open source daily arXiv paper readers, configured for **computational biology, epigenomics, and cancer genomics** research.
+
+| Tool | What it does | Live site |
+|---|---|---|
+| [daily-arXiv-ai-enhanced](https://github.com/Lapmlnex/daily-arXiv-ai-enhanced) | Auto-crawls arXiv daily + AI summaries. Lightweight, zero-server. | [lapmlnex.github.io/daily-arXiv-ai-enhanced](https://lapmlnex.github.io/daily-arXiv-ai-enhanced/) |
+| [daily-paper-reader](https://github.com/Lapmlnex/daily-paper-reader) | Personalized paper feed with AI Q&A, keyword subscriptions, and recommendation engine. | [lapmlnex.github.io/daily-paper-reader](https://lapmlnex.github.io/daily-paper-reader/) |
+
+**arXiv categories tracked:** `q-bio.GN` (Genomics), `q-bio.QM` (Quantitative Methods), `q-bio.CB` (Cell Behavior), `stat.ML`, `cs.LG`
+
+Both run entirely on GitHub Actions + GitHub Pages. No server needed.
+
+Based on [dw-dengwei/daily-arXiv-ai-enhanced](https://github.com/dw-dengwei/daily-arXiv-ai-enhanced) and [ziwenhahaha/daily-paper-reader](https://github.com/ziwenhahaha/daily-paper-reader).
+
 ## Next Repos To Build
 
 - `Lapmlnex.github.io`
