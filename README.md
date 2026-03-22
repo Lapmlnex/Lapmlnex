@@ -80,6 +80,18 @@ Both run entirely on GitHub Actions + GitHub Pages. No server needed.
 
 Based on [dw-dengwei/daily-arXiv-ai-enhanced](https://github.com/dw-dengwei/daily-arXiv-ai-enhanced) and [ziwenhahaha/daily-paper-reader](https://github.com/ziwenhahaha/daily-paper-reader).
 
+## Research Productivity Toolkit (Curated Forks)
+
+Forked and maintained references for boosting research efficiency, AI-assisted writing, and academic workflow.
+
+| Repo | What it helps with |
+|---|---|
+| [Prompt-Engineering-Guide](https://github.com/Lapmlnex/Prompt-Engineering-Guide) | Master prompt engineering for better AI responses in research tasks (72k stars) |
+| [awesome-scientific-writing](https://github.com/Lapmlnex/awesome-scientific-writing) | Curated tools and resources for scientific writing beyond LaTeX |
+| [awesome-phd-advice](https://github.com/Lapmlnex/awesome-phd-advice) | Essential advice collection for graduate students and researchers |
+| [latex-mimosis](https://github.com/Lapmlnex/latex-mimosis) | Minimal, modern LaTeX thesis template for dissertations |
+| [AgentLaboratory](https://github.com/Lapmlnex/AgentLaboratory) | End-to-end autonomous AI research workflow to assist human researchers |
+
 ## Next Repos To Build
 
 - `Lapmlnex.github.io`
