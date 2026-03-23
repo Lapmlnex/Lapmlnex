@@ -1,104 +1,62 @@
 # Hi, I'm Yukun
 
-I use this profile as a clean public layer for useful software, small workflow improvements, and things I keep coming back to.
+Researcher and developer. I use this GitHub as a clean public layer for tools, workflow improvements, and things worth sharing.
 
-- I learn constantly from open source, public docs, and other people's good ideas.
-- I build for my own use first, then clean up the parts that are worth sharing.
-- I like convenience, clarity, and software that saves time without feeling heavy.
+- I learn from open source constantly — libraries, patterns, docs, and other people's good ideas
+- I build for my own use first, then clean up what is genuinely reusable
+- I prefer software that saves time without feeling heavy
 
-## What You Will Find Here
+---
 
-- Small utilities and experiments
-- Workflow notes and setup guides
-- Public repos that are safe, simple, and reusable
-- A separate site that curates the things I actually want people to click
+## Own Projects
 
-## Current Focus
+| Repo | What it is |
+|---|---|
+| [Lapmlnex.github.io](https://lapmlnex.github.io/) | Public site — curated project shelf, notes, and a cleaner entry point than the raw repo list |
+| [K4\_K9](https://github.com/Lapmlnex/K4_K9) | Active sandbox — staging ground for experiments and utilities being split into their own repos |
 
-- Building a stronger public GitHub presence with clear project boundaries
-- Turning rough personal tooling into better public repos
-- Learning from community patterns and contributing back in smaller, useful ways
+---
 
-## Community Loop
+## Daily Paper Tools
 
-1. Pull from the community
-   - libraries, starter patterns, docs, and small tricks that make work smoother
-2. Build for myself
-   - convenience tools, workflow improvements, and quality-of-life fixes
-3. Share back
-   - cleaned repos, better docs, examples, and small contributions that may save someone else time
+Customized forks of open-source arXiv paper readers, configured for **computational biology, epigenomics, and cancer genomics**.
 
-## Project Strategy
+| Tool | What it does | Live |
+|---|---|---|
+| [daily-arXiv-ai-enhanced](https://github.com/Lapmlnex/daily-arXiv-ai-enhanced) | Auto-crawls arXiv daily + AI summaries. Zero server. | [View site](https://lapmlnex.github.io/daily-arXiv-ai-enhanced/) |
+| [daily-paper-reader](https://github.com/Lapmlnex/daily-paper-reader) | Personalized feed with AI Q&A, keyword subscriptions, and recommendations. | [View site](https://lapmlnex.github.io/daily-paper-reader/) |
 
-I am organizing my GitHub presence into three layers:
+**arXiv categories tracked:** `q-bio.GN` · `q-bio.QM` · `q-bio.CB` · `stat.ML` · `cs.LG`
 
-1. `Lapmlnex`
-   - Profile README and overview
-2. `Lapmlnex.github.io`
-   - Curated personal site and project shelf
-3. Public utility repos
-   - Small, reusable, well-documented outputs that started as something I needed myself
+Both run on GitHub Actions + GitHub Pages. No server required.
 
-## Good Things To Pin Here
+---
 
-- `Lapmlnex.github.io`
-- A small utility repo that solves one real annoyance well
-- A workflow or setup playbook repo
-- A notes or docs repo with genuinely reusable ideas
-- One compact repo that is easy for new collaborators to understand quickly
+## Research Toolkit (Curated Forks)
 
-## Working Publicly
+Forked references for research efficiency, AI-assisted writing, and academic workflow.
 
-My goal is not to dump every project online.
+| Repo | What it helps with |
+|---|---|
+| [Prompt-Engineering-Guide](https://github.com/Lapmlnex/Prompt-Engineering-Guide) | Master prompt engineering for better AI responses in research tasks |
+| [awesome-scientific-writing](https://github.com/Lapmlnex/awesome-scientific-writing) | Tools and resources for scientific writing beyond LaTeX |
+| [awesome-phd-advice](https://github.com/Lapmlnex/awesome-phd-advice) | Advice collection for graduate students and researchers |
+| [latex-mimosis](https://github.com/Lapmlnex/latex-mimosis) | Minimal, modern LaTeX thesis template for dissertations |
+| [AgentLaboratory](https://github.com/Lapmlnex/AgentLaboratory) | Autonomous AI research workflow to assist human researchers |
 
-My goal is to keep public work:
+---
 
-- clear
-- safe to share
-- well named
-- easy to navigate
-- useful to future collaborators
+## Roadmap
+
+Repos currently being built out:
+
+- `everyday-utilities` — tiny scripts that remove repetitive steps
+- `workflow-playbooks` — setup notes and repeatable environment patterns
+- `community-notes` — curated notes on tools and patterns worth remembering
+
+---
 
 ## Find Me
 
 - GitHub: [github.com/Lapmlnex](https://github.com/Lapmlnex)
-- Site: `https://lapmlnex.github.io/` after deployment
-- Public contact: GitHub profile and repository links for now
-
-## Daily Paper Readers (Refined Open Source Editions)
-
-Customized forks of open source daily arXiv paper readers, configured for **computational biology, epigenomics, and cancer genomics** research.
-
-| Tool | What it does | Live site |
-|---|---|---|
-| [daily-arXiv-ai-enhanced](https://github.com/Lapmlnex/daily-arXiv-ai-enhanced) | Auto-crawls arXiv daily + AI summaries. Lightweight, zero-server. | [lapmlnex.github.io/daily-arXiv-ai-enhanced](https://lapmlnex.github.io/daily-arXiv-ai-enhanced/) |
-| [daily-paper-reader](https://github.com/Lapmlnex/daily-paper-reader) | Personalized paper feed with AI Q&A, keyword subscriptions, and recommendation engine. | [lapmlnex.github.io/daily-paper-reader](https://lapmlnex.github.io/daily-paper-reader/) |
-
-**arXiv categories tracked:** `q-bio.GN` (Genomics), `q-bio.QM` (Quantitative Methods), `q-bio.CB` (Cell Behavior), `stat.ML`, `cs.LG`
-
-Both run entirely on GitHub Actions + GitHub Pages. No server needed.
-
-Based on [dw-dengwei/daily-arXiv-ai-enhanced](https://github.com/dw-dengwei/daily-arXiv-ai-enhanced) and [ziwenhahaha/daily-paper-reader](https://github.com/ziwenhahaha/daily-paper-reader).
-
-## Research Productivity Toolkit (Curated Forks)
-
-Forked and maintained references for boosting research efficiency, AI-assisted writing, and academic workflow.
-
-| Repo | What it helps with |
-|---|---|
-| [Prompt-Engineering-Guide](https://github.com/Lapmlnex/Prompt-Engineering-Guide) | Master prompt engineering for better AI responses in research tasks (72k stars) |
-| [awesome-scientific-writing](https://github.com/Lapmlnex/awesome-scientific-writing) | Curated tools and resources for scientific writing beyond LaTeX |
-| [awesome-phd-advice](https://github.com/Lapmlnex/awesome-phd-advice) | Essential advice collection for graduate students and researchers |
-| [latex-mimosis](https://github.com/Lapmlnex/latex-mimosis) | Minimal, modern LaTeX thesis template for dissertations |
-| [AgentLaboratory](https://github.com/Lapmlnex/AgentLaboratory) | End-to-end autonomous AI research workflow to assist human researchers |
-
-## Next Repos To Build
-
-- `Lapmlnex.github.io`
-- `everyday-utilities`
-- `workflow-playbooks`
-- `community-notes`
-
----
-
-If you are here to see what I build or reuse, the best public entry point will usually be the site rather than the raw repository list.
+- Site: [lapmlnex.github.io](https://lapmlnex.github.io/)
